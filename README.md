@@ -24,7 +24,7 @@
 
 [twitter]: https://twitter.com/marcoheijkoop
 [youtube]: https://youtube.com/@marcoheijkoop
-[instagram]: https://www.instagram.com/marcoheijkoop/
+[instagram]: https://www.instagram.com/mheijkoop/
 [linkedin]: https://linkedin.com/in/marcoheijkoop
 
 <!--
