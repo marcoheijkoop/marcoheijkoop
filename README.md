@@ -2,7 +2,7 @@
                           
 <h2>👨🏻‍💻 Cyber Security Projects:</h2>
 
-- Building my website (https://marcoheikkoop.nl) 
+- Building my website (https://marcoheijkoop.nl) 
 
 <h2>🎓 Certifications</h2>
 
