@@ -11,7 +11,7 @@
 - [SC-900](https://learn.microsoft.com/en-us/users/marcoheijkoop/credentials/7d67134715a04336)
 - [AZ-900](https://learn.microsoft.com/en-us/users/marcoheijkoop/credentials/b64426bdfb654467)
 - [SUP-2025](https://www.credly.com/badges/53771545-799a-4bd6-9c31-574d624276f9)
-- [ACN-2025] IT Foundations for Apple Partners (https://consultants.apple.com)
+- [ACN-2025](https://consultants.apple.com)
 
 <h2>📺 Popular YouTube Videos</h2>
 
