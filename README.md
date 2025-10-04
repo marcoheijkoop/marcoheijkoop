@@ -7,9 +7,10 @@
 <h2>🎓 Certifications</h2>
 
 - [CEHv12](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=pxN4UTi1M56I0aCrWGZL3C8NqP202+CR8t0yseT387Q=)
-- [SC-200](https://www.credly.com/badges/c9e5731c-d762-463b-a5a7-e96540a7701d/linked_in)
-- [SC-900](https://www.credly.com/badges/e4328148-fe9a-4c11-bcbe-596b00cfa863/linked_in_profile)
-- [AZ-900] In Progress
+- [SC-200](https://learn.microsoft.com/en-us/users/marcoheijkoop/credentials/b822a482059a4795)
+- [SC-900](https://learn.microsoft.com/en-us/users/marcoheijkoop/credentials/7d67134715a04336)
+- [AZ-900](https://learn.microsoft.com/en-us/users/marcoheijkoop/credentials/b64426bdfb654467)
+- [SUP2025](https://www.credly.com/badges/53771545-799a-4bd6-9c31-574d624276f9)
 
 
 <h2>📺 Popular YouTube Videos</h2>
